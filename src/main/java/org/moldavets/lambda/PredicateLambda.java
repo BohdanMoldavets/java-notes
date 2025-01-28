@@ -1,12 +1,10 @@
-package org.moldavets;
-
-import org.moldavets.lambda.Student;
+package org.moldavets.lambda;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import static org.moldavets.StudentInfo.checkStudentsList;
+import static org.moldavets.lambda.StudentInfo.checkStudentsList;
 
 public class PredicateLambda {
     public static void main(String[] args) {
